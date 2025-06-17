@@ -1,0 +1,117 @@
+#login{
+    width: 100px;  /* aumenta a largura*/
+    height: 40px;  /* aumenta a altura*/
+    background-color: rgb(235,84,84); /* alterar  a cor */
+    color: #ffff;
+    border-radius: 20px; /* torna as bordas redondas*/
+    border: none;
+} 
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;                            
+}
+#navbarNav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#banner{
+    height: 500px;
+    width: 500px;
+}
+.texto-banner{
+    font-size: 60px;
+    font-style: bolder;
+   
+}
+.caixa-texto{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+}
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.caixa-estrutura{
+    display: flex;
+    flex-direction: row;  
+}
+#food{
+    color: rgb(212, 13, 13);
+}
+
+#buton{
+    width: 100px;
+    height: 40px;
+    background-color: red;
+    color:  rgb(255, 255 ,255)
+
+    
+}
+.caixa-titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    width: 400px;
+
+ }
+ .titulo-secudanrios{
+    color: rgb(177, 15, 15);
+    font-weight: 500;
+ }
+.titulo-primarios{
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.class-cards{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 700PX;
+    
+}
+.caixa-frente1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+#img1{
+    width: 200px;
+}
+#titulo1{
+    display: flex;
+    text-align: center;
+}
+#img2{
+    width: 200px;
+}
+#titulo2{
+    display: flex;
+    text-align: center;
+}
+#img3{
+    width: 200px;
+}
+#titulo3{
+    display: flex;
+    text-align: center;
+}
+
+#img4{
+    display: flex;
+    flex-direction:
+}
